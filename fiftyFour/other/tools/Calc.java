@@ -1,2 +1,4 @@
-package fiftyFour.other.tools;public class Calc {
+package fiftyFour.other.tools;
+
+public class Calc {
 }

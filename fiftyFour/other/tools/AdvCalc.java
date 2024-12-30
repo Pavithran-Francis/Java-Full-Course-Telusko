@@ -1,2 +1,5 @@
-package fiftyFour.other.tools;public class AdvCalc {
+package fiftyFour.other.tools;
+
+public class AdvCalc {
+
 }

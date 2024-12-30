@@ -1,2 +1,7 @@
-package FiftyOne;public class Demo {
+package fiftyOne;
+
+public class Demo {
+    public static void main(String[] args) {
+        B obj = new B(5);
+    }
 }
